@@ -4,7 +4,7 @@ import axios from 'axios';
 // const KEY = '28717517-f64785f1a0bcfad607225ab19';
 export class PixabayAPI {
   constructor() {
-    this.API_KEY = '28624819-d410dfb7aeeef29a0be5ef4eb';
+    this.API_KEY = '28717517-f64785f1a0bcfad607225ab19';
     this.BASIC_URL = 'https://pixabay.com/api/';
     this.page = 1;
     this.maxPage = 0;
